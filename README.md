@@ -1,5 +1,6 @@
 CryptoSystem
 ============
+This cryptosystem has two different layers.
 Encrypt uses transposition and substituion. 
 Decrypt uses resubstitution and retransposition
 
