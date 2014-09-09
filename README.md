@@ -1,22 +1,19 @@
 CryptoSystem
 ============
-Encrypt uses transportation and substituion. 
-Decrypt is used to decipher the cipher from encrypt. So uses similar but opposite approach to encrypt.
+Encrypt uses transposition and substituion. 
+Decrypt uses resubstitution and retransposition
 
-   YOU CAN MODIFY HOW SUBSTITUION OR TRANSPOSITION IS DONE TO MAKE DECRYPTION WORK. BUT GENERAL STRUCTURE SHOULD
-   BE THE SAME.
-   
-Need to be done:
+Disregard the C version of encrypt and decrypt.
 
- 1) Make encrypt take user given file instead of hard coded file -- like right now.
- 2) Decrypt is not functional. It just has its skeleton. So, look at how encrypt works nd do the reverse -- by implementing the
-    given functions -- Need to spend time for this one. So one needs to be ready to spend more time to be commited for this one. 
- 3) Apply the same approach to decipher user given file -- meaning get file to decrypt from user.
+The new and better version of cryptosystem is iniside the folder src and is written in JAVA.
 
+The main program is CryptoSystem inisde package cryptosystem. 
 
+DUE TO TIME CONSTRAINT IT IS NOT PROPERLY DOCUMENTED YET. BUT, IT IS NOT VERY DIFFICULT TO UNDERSTAND THE SYSTEM IF LOOKED AT IT CAREFULLY.
+ALSO, IT WILL BE GREATLY APPRECIATED IF YOU ARE WILLING TO WRITE THE DOCUMENTATION -- EVEN PARTIAL IS OK.
+FEEL FREE TO MODIFY IT.
+MORE DESCRIPTION WILL BE AVAILABLE SOON IF YOU NEED MORE DETAILS OR YOU CAN ASK ME LATER.
 
-
-Select from the options above to work on. And let us know which one you are commited to.
 
 
  
