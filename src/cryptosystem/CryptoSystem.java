@@ -73,11 +73,11 @@ public class CryptoSystem {
             bufReader = new BufferedReader(new InputStreamReader(inputStream));
             text = "";
             unit=0;
-            System.out.println("here");
+            //System.out.println("here");
             while((unit= bufReader.read())!= -1)
-            {   System.out.println("loop");
+            {   //System.out.println("loop");
                 text = text.concat(Character.toString((char)unit));
-                System.out.println(text);
+                //System.out.println(text);
             }
             
             bufReader.close();
